@@ -7,7 +7,7 @@
 **Instalasi**
 Untuk menjalankan proyek ini secara lokal, ikuti langkah langkah berikut:
 1. Clone repository
-   git clone https://github.com/Farhan-225/sm3_pemroglanjut.git
+   ```git clone https://github.com/Farhan-225/sm3_pemroglanjut.git```
 2. Navigasi ke direktori proyek
    <pre> Cd project-name </pre>
 3. Instal dependensi (Jika diperlukan)
