@@ -21,7 +21,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah langkah berikut:
    - Untuk Gradle
    <pre> gradle: run </pre>
 **Contoh output**
-1. Jika compile berhasil
+Jika compile berhasil
    - hasil:
    <pre> Hello, Java Project Initialized! </pre>
-2. Jika hasil berbeda, maka mungkin ada kesalahan.
+Jika hasil berbeda, maka mungkin ada kesalahan.
