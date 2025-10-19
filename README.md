@@ -7,14 +7,16 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah langkah berikut:
 1. Clone repository
    git clone https://github.com/Farhan-225/sm3_pemroglanjut.git
 2. Navigasi ke direktori proyek
-   ``` Cd project-name ```
+   <pre>```Cd project-name```<pre>
 3. Instal dependensi (Jika diperlukan)
    - Jika menggunakan Maven:
-   ``` mvn install ```
+   <pre>```mvn install```<pre>
    - Jika menggunakan Gradle:
-   ``` gradle build ```
+   <pre>```gradle build```<pre>
 4. Jalankan aplikasi
    - Untuk Maven:
-   ``` mvn exec:java ```
+   <pre>```mvn exec:java```<pre>
    - Untuk Gradle
-   ``` gradle: run ```
+   <pre>```gradle: run```<pre>
+Contoh output
+<pre>```Hello, Java Project Initialized!```<pre>
