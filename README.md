@@ -20,8 +20,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah langkah berikut:
    <pre> mvn exec:java </pre>
    - Untuk Gradle
    <pre> gradle: run </pre>
-**Contoh output**
-Jika compile berhasil
+**Contoh output** (Jika compile berhasil)
    - hasil:
    <pre> Hello, Java Project Initialized! </pre>
 Jika hasil berbeda, maka mungkin ada kesalahan.
