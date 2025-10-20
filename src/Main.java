@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Java Project Initialized!");
+        int a = 1;
+        int b = 1;
+        int sum = a + b;
+        System.out.println("Hasil:"+ sum);
     }
 }
 
