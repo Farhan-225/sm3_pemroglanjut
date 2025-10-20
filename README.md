@@ -1,5 +1,5 @@
 **Fitur Utama**
-- Menampilkan text
+- Menampilkan hasil 1 + 1 dari a + b = sum
 
 **Struktur**
 <pre> src/Main.java </pre>
@@ -22,5 +22,5 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah langkah berikut:
    <pre> gradle: run </pre>
 **Contoh output** (Jika compile berhasil)
    - hasil:
-   <pre> Hello, Java Project Initialized! </pre>
+   <pre> Hasil:2 </pre>
 Jika hasil berbeda, maka mungkin ada kesalahan.
